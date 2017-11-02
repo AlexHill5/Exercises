@@ -1,0 +1,18 @@
+.main-container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #8e9eab, #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.links{
+    border: thin solid black;
+    color: white;
+    background: black;
+    font-size: 25px;
+    padding: 10px;
+    margin: 15px;
+}
